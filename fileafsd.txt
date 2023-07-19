@@ -1,0 +1,7 @@
+Employee ID:afsd
+Employee Name     :sdaf
+Father's Name     :fdsa
+Employee Contact  :adsf
+Email Information :afsd
+Employee position :afds
+Employee Salary   :asfd
