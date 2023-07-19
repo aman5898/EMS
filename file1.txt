@@ -1,7 +1,0 @@
-Employee ID:1
-Employee Name     :Aman
-Father's Name     :AKS
-Employee Contact  :98107388
-Email Information :test
-Employee position :Vp
-Employee Salary   :100

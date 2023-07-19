@@ -1,8 +1,0 @@
-
-Employee ID:2
-Employee Name     :Aman Kumar
-Father's Name     :Aks
-Employee Contact  :98107
-Email Information :test@gmail.com
-Employee position :VP
-Employee Salary   :1000
